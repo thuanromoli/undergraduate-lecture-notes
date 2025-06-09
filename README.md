@@ -27,6 +27,6 @@ Example of an index <br/>
 <h2>Usage</h2>
 
 1. Install Obsidian.
-2. Download and unzip `notes.zip` to a folder, say `mynotes`.
-3. Set the vault to be `mynotes`.
+2. Download and extract `notes.zip` to a folder, say `mynotes`.
+3. In Obsidian, choose `Open folder as vault`, and select `mynotes`.
 4. Browse freely, or use the index.
